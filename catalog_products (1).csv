@@ -1,0 +1,37 @@
+﻿handleId,fieldType,name,description,productImageUrl,collection,sku,ribbon,price,surcharge,visible,discountMode,discountValue,inventory,weight,productOptionName1,productOptionType1,productOptionDescription1,productOptionName2,productOptionType2,productOptionDescription2,productOptionName3,productOptionType3,productOptionDescription3,productOptionName4,productOptionType4,productOptionDescription4,productOptionName5,productOptionType5,productOptionDescription5,productOptionName6,productOptionType6,productOptionDescription6,additionalInfoTitle1,additionalInfoDescription1,additionalInfoTitle2,additionalInfoDescription2,additionalInfoTitle3,additionalInfoDescription3,additionalInfoTitle4,additionalInfoDescription4,additionalInfoTitle5,additionalInfoDescription5,additionalInfoTitle6,additionalInfoDescription6,customTextField1,customTextCharLimit1,customTextMandatory1,customTextField2,customTextCharLimit2,customTextMandatory2
+product_4f00baea-5220-09ba-cbc6-9245e6c3bd66,Product,The Chronicle Photo Journal,<p>&nbsp;</p>,01b746_02c16a4e5b2043418a27f52ca14c7c5d~mv2.jpg;01b746_dd7208aa321e40889bb8a7c4b22c31f7~mv2.jpg;01b746_103b0990b84f4900b464e65cd65bdd8a~mv2.jpg;01b746_aba92f9cd63847369d253e6c4821b3b8~mv2.jpg;01b746_331fbd3dba104e5fa17013d8be845b1a~mv2.jpg;01b746_08cb17205e7f42de9dc6c0bfa177d8e1~mv2.jpg;01b746_367b92528e8b44dabfd02e38416f735b~mv2.jpg,,,,31.0,,true,PERCENT,0.0,InStock,0.0,,,,,,,,,,,,,,,,,,,About The Chronicle Photo Journal,"<p>After countless conversations with travelers, students, parents, artists, and more, we crafted The Chronicle - a photo journal designed to bring a modern twist to a classic photo album. Beautiful, functional, and simple, it is the perfect home&nbsp;for your memories.</p>
+
+<p>&nbsp;</p>
+
+<p>The Chronicle Photo Journal comes with a pack of 10 journal cards. You can purchase extra journal cards <a href=""https://www.projectmemory.co/product-page/journal-card-set"" target=""_blank"">here</a>.</p>
+
+<p>&nbsp;</p>
+
+<p>To our UK customers:&nbsp; The UK has placed a VAT of 20% on goods valued up to $180 USD, effective Jan 1, 2021. As we are still navigating this new rule, we are unable to fulfill orders to the UK for the time being. Thanks for your patience, and we'll keep you updated!</p>
+",Product Details,"<ul>
+	<li>Size: 19cm x 23.2cm (7.5"" x 9.1"")</li>
+	<li>120 4""x6""plastic sleeves</li>
+	<li>High quality linen cloth cover&nbsp;</li>
+	<li>Elastic strap</li>
+	<li>Beautiful copper foiling&nbsp;on cover and spine</li>
+	<li>Slot for labeling the photo journal</li>
+	<li>1 blank label card&nbsp;</li>
+	<li>10 4""x6"" blank&nbsp;&nbsp;journal cards</li>
+	<li>Back pocket with velcro seal</li>
+</ul>
+",,,,,,,,,,,,,,
+product_9480984c-86ca-f8ab-9556-023b5a3b4bcf,Product,Journal Card Set,<p>&nbsp;</p><p>&nbsp;</p>,01b746_a001f8db5bd249bab54f0cc8b75228ba~mv2.jpg;01b746_e4396c20847e4fc4bfeb40db01535c4b~mv2.jpg;01b746_331fbd3dba104e5fa17013d8be845b1a~mv2.jpg,,,,3.5,,true,PERCENT,0.0,InStock,0.0,Pack Size,DROP_DOWN,Pack of 10;Pack of 20;Pack of 30,,,,,,,,,,,,,,,,Product Details,"<p>Enhance your photo journal with additional journal cards! These 4""x6"" cards are much sturdier and more durable than your average flashcards, perfect for your notes and creations.</p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li>14 pt paper (extra heavyweight duty)</li>
+	<li>Blank, unruled&nbsp;</li>
+	<li>Color: White</li>
+	<li>Size: 4""x 6""&nbsp;</li>
+	<li>Acid-free</li>
+</ul>
+",,,,,,,,,,,,,,,,
+product_9480984c-86ca-f8ab-9556-023b5a3b4bcf,Variant,,,,,,,,0.0,true,,,InStock,,,,Pack of 10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_9480984c-86ca-f8ab-9556-023b5a3b4bcf,Variant,,,,,,,,2.0,true,,,InStock,,,,Pack of 20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+product_9480984c-86ca-f8ab-9556-023b5a3b4bcf,Variant,,,,,,,,3.0,true,,,InStock,,,,Pack of 30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
